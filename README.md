@@ -50,7 +50,7 @@
  
 ***
 * ___Верстка(Интернет магазин)___
-    * [Ссылка на репазиторий][(https://github.com/Muhyammad/Solo-Project/)]
+    * [Ссылка на репазиторий](https://github.com/Muhyammad/Solo-Project/)
     * [Ссылка на репазиторий](https://github.com/bennykrik/frontend-quize/)
     * [Ссылка на репазиторий](https://github.com/bennykrik/back-for-quiz/)
 ***
