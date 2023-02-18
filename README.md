@@ -37,6 +37,7 @@
 
 ***Полный Стек:***
 
+
 - DOM
 - React
 - NodeJS
@@ -44,7 +45,6 @@
 - JavaScript
 - TypeScript
 - React router dom v6
-
 <br />
  
  
