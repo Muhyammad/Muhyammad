@@ -37,16 +37,22 @@
 
 ***Полный Стек:***
 
-
 - DOM
 - React
 - NodeJS
 - HTML, CSS
 - JavaScript
-- TypeScript
 - React router dom v6
+
 <br />
  
+ 
+ ***
+* ___Верстка(Интарнет туры)___
+    * [Ссылка на репазиторий](https://github.com/Muhyammad/Solo-Project/)
+    * [Ссылка на репазиторий](https://github.com/Muhyammad/mmm/)
+    * [Ссылка на репазиторий](https://github.com/Muhyammad/Thrivtalk/)
+***
  
 ***
 * ___Верстка(Интернет магазин)___
@@ -58,8 +64,8 @@
 
 
 ## Связь со мной: 
-<div>VK - (https://t.me/ZelimFrontend/)</div>
-<div>Gmail - (memezidov@gmail.com/)</div>
+<div>VK - https://vk.com/id700875915/</div>
+<div>Gmail - memezidov@gmail.com/</div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
