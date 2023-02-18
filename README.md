@@ -50,9 +50,9 @@
  
 ***
 * ___Верстка(Интернет магазин)___
-     [Ссылка на репазиторий](https://github.com/Muhyammad/Solo-Project/)
-     [Ссылка на репазиторий](https://github.com/Muhyammad/mmm/)
-     [Ссылка на репазиторий](https://github.com/Muhyammad/Thrivtalk/)
+    **** [Ссылка на репазиторий](https://github.com/Muhyammad/Solo-Project/)
+    **** [Ссылка на репазиторий](https://github.com/Muhyammad/mmm/)
+    **** [Ссылка на репазиторий](https://github.com/Muhyammad/Thrivtalk/)
 ***
     
 
