@@ -51,15 +51,15 @@
 ***
 * ___Верстка(Интернет магазин)___
     * [Ссылка на репазиторий](https://github.com/Muhyammad/Solo-Project/)
-    * [Ссылка на репазиторий](https://github.com/bennykrik/frontend-quize/)
-    * [Ссылка на репазиторий](https://github.com/bennykrik/back-for-quiz/)
+    * [Ссылка на репазиторий](https://github.com/Muhyammad/mmm/)
+    * [Ссылка на репазиторий](https://github.com/Muhyammad/Thrivtalk/)
 ***
     
 
 
 ## Связь со мной: 
 <div>Telegram - https://t.me/ZelimFrontend</div>
-<div>Email - kveyk777@mail.ru</div>
+<div>Email - memezidov@gmail.com</div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
