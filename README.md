@@ -50,11 +50,11 @@
  
 ***
 * ___Верстка(Интернет магазин)___
-    * [Ссылка на репазиторий][(http://xn--39-6kcqf9di.xn--p1ai/)](https://github.com/Muhyammad/Solo-Project)
-***
-* ___Проект Quize(верстка сайтов)___
+    * [Ссылка на репазиторий][(http://xn--39-6kcqf9di.xn--p1ai/)](https://github.com/Muhyammad/Solo-Project/)
     * [Ссылка на репазиторий](https://github.com/bennykrik/frontend-quize/)
     * [Ссылка на репазиторий](https://github.com/bennykrik/back-for-quiz/)
+***
+    
 
 
 ## Связь со мной: 
