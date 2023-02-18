@@ -1,7 +1,6 @@
 <!--
-# I am Frontend Developer
 <p align='center'>
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='700'>
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 </p>
 <p align="center"> 
   Visitor count<br>
@@ -9,7 +8,7 @@
 </p>
 <p align="center">
 <a href="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open">
-    <img src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing" width="712" height="128">
+    <img src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing" width="512" height="128">
 </a>
 </p>
 <p align="center">
@@ -28,7 +27,7 @@
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="230"/>
 </p>
  
-<h1 align="center" >Всем привет, меня зовут Зелим и Я Frontend Разработчик! 👨🏻‍💻 </h1>
+<h1 align="center" >My name is Muhammad and I Frontend Developer 👨🏻‍💻 </h1>
 
 <br />
  
@@ -36,22 +35,17 @@
 
 <br />
 
-**Полный Стек:**
-- JavaScript
-- React
-- TypeScript
-- HTML5, CSS3, SASS
-- Redux, Redux Toolkit
-- MongoDB
-- Mongoose
-- ExpressJS 
-- NodeJS
-- React router dom v6
-- DOM
-- Webpack
+***Полный Стек:***
 
- 
- <br />
+- DOM
+- React
+- NodeJS
+- HTML, CSS
+- JavaScript
+- TypeScript
+- React router dom v6
+
+<br />
  
  
 ***
