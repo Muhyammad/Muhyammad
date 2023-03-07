@@ -37,8 +37,10 @@
 
 ***Полный Стек:***
 - JavaScript
-- HTML, CSS
+- HTML
+- CSS
 - NodeJS
+- Git
 - React
 - React bootstrap
 - React router dom v6
@@ -58,10 +60,7 @@
     
 
 
-## Связь со мной: 
+## Связь со мной: phone
+<div>phone - +7 (989)178 08 78</div>
 <div>VK - https://vk.com/id700875915/</div>
 <div>Gmail - memezidov@gmail.com</div>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
-
