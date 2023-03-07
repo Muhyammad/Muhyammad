@@ -36,28 +36,23 @@
 <br />
 
 ***Полный Стек:***
-
-- DOM
-- React
-- NodeJS
-- HTML, CSS
 - JavaScript
+- HTML, CSS
+- NodeJS
+- React
+- React bootstrap
 - React router dom v6
 
 <br />
  
  
  ***
-* ___Верстка(Интарнет туры)___
+* ___Верстка(Интернет магазин)___
     * [Ссылка на репазиторий](https://github.com/Muhyammad/Solo-Project/)
-    * [Ссылка на репазиторий](https://github.com/Muhyammad/mmm/)
-    * [Ссылка на репазиторий](https://github.com/Muhyammad/Thrivtalk/)
 ***
  
 ***
-* ___Верстка(Интернет магазин)___
-    * [Ссылка на репазиторий](https://github.com/Muhyammad/Solo-Project/)
-    * [Ссылка на репазиторий](https://github.com/Muhyammad/mmm/)
+* ___Верстка(Интарнет туры)___
     * [Ссылка на репазиторий](https://github.com/Muhyammad/Thrivtalk/)
 ***
     
